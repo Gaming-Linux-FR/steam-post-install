@@ -28,15 +28,7 @@ Ajoutez des emplacements de stockage pour vos jeux en configurant des dossiers s
   <img width="850" src="https://github.com/Gaming-Linux-FR/steam-post-install/blob/main/Steam%20ajout%20de%20disque.png" alt="allowflipping">
 </p>
 
-Configuration de l'accès à un second disque si vous utilisez **FLATPAK** :
-
-Si vous souhaitez ajouter un second disque dur ou SSD pour votre bibliothèque de jeux Steam, vous devez accorder à Steam l'accès à ce disque via une commande Flatpak :
-              
-```bash
-flatpak override --user --filesystem=/chemin/vers/votre/Bibliothèque/Steam com.valvesoftware.Steam
-```
-   
-Remplacez `/chemin/vers/votre/Bibliothèque/Steam` par le chemin réel vers votre dossier de bibliothèque Steam sur le second disque.
+Si Steam **flatpak** : [Ajout disques secondaires Steam Flatpak](https://github.com/Gaming-Linux-FR/glf-astuces/blob/main/README.md#acc%C3%A8s-%C3%A0-un-second-disque-sur-steam-flatpak)
 
 ## Désactiver remote play
 
