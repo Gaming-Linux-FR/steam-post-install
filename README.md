@@ -32,7 +32,7 @@ Si Steam **flatpak** : [Ajout disques secondaires Steam Flatpak](https://github.
 
 ## Désactiver remote play
 
-Si vous n'utiliser pas la fonctionnalité Remote Play, qui permet de streamer des jeux sur d'autres appareils, vous pouvez facilement la désactiver pour éviter que le service ne tourne en tache de fond :
+Si vous n'utilisez pas la fonctionnalité Remote Play, qui permet de streamer des jeux sur d'autres appareils, vous pouvez facilement la désactiver pour éviter que le service ne tourne en tache de fond :
 
 <p align="center">
   <img width="850" src="https://github.com/Gaming-Linux-FR/steam-post-install/blob/main/D%C3%A9sactiver%20remote%20play.png" alt="allowflipping">
