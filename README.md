@@ -50,7 +50,7 @@ Si Steam **flatpak** : [Ajout disques secondaires Steam Flatpak](https://github.
 
 ## Steam input
 
-Steam input peut grandement améliorer le support de vore manette sur Linux.
+Steam input peut grandement améliorer le support de votre manette sur Linux.
 
 <p align="center">
   <img width="850" src="https://github.com/Gaming-Linux-FR/steam-post-install/blob/main/steam%20input.png" alt="allowflipping">
